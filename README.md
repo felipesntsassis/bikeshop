@@ -20,8 +20,11 @@
 - Manutenção de frete;
 - e mais...
 
-### Tecnologias
+## Tecnologias Utilizadas
 
-- Backend: Java - Ecosistema Spring (Spring Boot, Spring Spring Data JPA)
+- Backend: Java - Ecosistema Spring (Spring Boot, Spring Spring Data JPA, Spring Security)
 - Banco de Dados: PostgreSQL
 - Front-end: Next.JS, Tailwind CSS.
+- Documentação de API (Swegger)
+- Autenticação com Redes Sociais (Facebook e Google);
+
